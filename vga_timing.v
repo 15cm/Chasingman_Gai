@@ -21,7 +21,7 @@ output [ 9: 0] VCnt;
 
 /* Parameters definition
  */
-//VGA timing (640 * 480)
+//VGA timing (800 * 525)
 `define VGA_H_TOTAL      800 //pixels
 `define VGA_H_SYNC       96
 
